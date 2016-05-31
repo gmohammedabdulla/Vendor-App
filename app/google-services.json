@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "21649191460",
+    "project_id": "restoapp-1297"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21649191460:android:8e57e064e5711b3a",
+        "android_client_info": {
+          "package_name": "com.example.abdulla.vendorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcwkgzdgJmtEhnGyf1aMb8lojEdmZkkTg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
